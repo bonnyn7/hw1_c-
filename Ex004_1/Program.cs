@@ -5,15 +5,18 @@ internal partial class Program
 {
     private static void Main(string[] args)
     {
-        int a = 2;
-        int b = 3;
-        int c = 7;
+        Console.WriteLine("Введите число");
+        int numberA = Convert.ToInt32 (Console.ReadLine());
+        Console.WriteLine("Введите число");
+        int numberB = Convert.ToInt32 (Console.ReadLine());
+        Console.WriteLine("Введите число");
+        int numberC = Convert.ToInt32 (Console.ReadLine());
 
-        int max = a;
+        int max = numberA;
 
-        if (a > max) max = a;
-        if (b > max) max = b;
-        if (c > max) max = c;
+        if (numberA > max) max = numberA;
+        if (numberB > max) max = numberB;
+        if (numberC > max) max = numberC;
 
         Console.Write("max= ");
         Console.WriteLine(max);
