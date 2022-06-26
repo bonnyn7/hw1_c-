@@ -13,13 +13,11 @@ internal partial class Program
 
         if (number % 2 == 0)
         {
-            Console.Write("Число является четным: ");
-            Console.WriteLine(number);
+            Console.Write("ДА");
         }
         else
         {
-            Console.Write("Число является нечетным: ");
-            Console.WriteLine(number);
+            Console.Write("НЕТ ");
         }
     }
 }
