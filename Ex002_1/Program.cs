@@ -5,13 +5,15 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        int a = 5;
-        int b = 7;
+        Console.WriteLine("Введите число");
+        int numberA = Convert.ToInt32 (Console.ReadLine());
+        Console.WriteLine("Введите число");
+        int numberB = Convert.ToInt32 (Console.ReadLine());
 
-        int max = a;
+        int max = numberA;
 
-        if (a > max) max = a;
-        if (b > max) max = b;
+        if (numberA > max) max = numberA;
+        if (numberB > max) max = numberB;
 
         Console.Write("max= ");
         Console.WriteLine(max);

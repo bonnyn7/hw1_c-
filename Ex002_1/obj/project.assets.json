@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Desktop/C#/hw1/Ex002/Ex002.csproj",
+      "projectUniqueName": "/Users/macbook/Desktop/C#/hw1/Ex002_1/Ex002.csproj",
       "projectName": "Ex002",
-      "projectPath": "/Users/macbook/Desktop/C#/hw1/Ex002/Ex002.csproj",
+      "projectPath": "/Users/macbook/Desktop/C#/hw1/Ex002_1/Ex002.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Desktop/C#/hw1/Ex002/obj/",
+      "outputPath": "/Users/macbook/Desktop/C#/hw1/Ex002_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.nuget/NuGet/NuGet.Config"
