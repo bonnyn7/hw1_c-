@@ -10,12 +10,26 @@ internal class Program
         Console.WriteLine("Введите число");
         int numberB = Convert.ToInt32 (Console.ReadLine());
 
-        int max = numberA;
+        int max=0;
+        int min=0;
 
-        if (numberA > max) max = numberA;
-        if (numberB > max) max = numberB;
-
-        Console.Write("max= ");
-        Console.WriteLine(max);
+        if (numberA > numberB)
+        {
+           max = numberA; 
+           min = numberB;
+           Console.Write("Максимальное число: ");
+           Console.WriteLine(numberA);
+           Console.Write("Минимальное число: ");
+           Console.WriteLine(numberB);
+        }
+        else
+        {
+           max = numberB; 
+           min = numberA;
+           Console.Write("Максимальное число: ");
+           Console.WriteLine(numberB);
+           Console.Write("Минимальное число: ");
+           Console.WriteLine(numberA);
+        }
     }
 }
