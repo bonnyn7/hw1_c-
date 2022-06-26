@@ -4,16 +4,22 @@
 //7 -> нет
 
 
+internal partial class Program
+{
+    private static void Main(string[] args)
+    {
         Console.WriteLine("Введите число");
-        int number = Convert.ToInt32 (Console.ReadLine());
+        int number = Convert.ToInt32(Console.ReadLine());
 
         if (number % 2 == 0)
         {
-        Console.Write ("Число является четным: ");
-        Console.WriteLine (number);
+            Console.Write("Число является четным: ");
+            Console.WriteLine(number);
         }
-        else 
+        else
         {
-        Console.Write ("Число является нечетным: ");
-        Console.WriteLine (number);
+            Console.Write("Число является нечетным: ");
+            Console.WriteLine(number);
         }
+    }
+}
