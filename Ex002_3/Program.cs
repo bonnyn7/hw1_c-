@@ -1,12 +1,12 @@
 ﻿//Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
-//a = 2 b = 10 -> max = 10
+//a = -9 b = -3 -> max = -3
 
-internal class Program
+internal partial class Program
 {
     private static void Main(string[] args)
     {
-        int a = 2;
-        int b = 10;
+        int a = -9;
+        int b = -3;
 
         int max = a;
 

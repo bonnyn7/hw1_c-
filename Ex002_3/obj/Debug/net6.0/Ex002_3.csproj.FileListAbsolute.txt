@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/C#/hw1/Ex002_3/bin/Debug/net6.0/Ex002_3
+/Users/macbook/Desktop/C#/hw1/Ex002_3/bin/Debug/net6.0/Ex002_3.deps.json
+/Users/macbook/Desktop/C#/hw1/Ex002_3/bin/Debug/net6.0/Ex002_3.runtimeconfig.json
+/Users/macbook/Desktop/C#/hw1/Ex002_3/bin/Debug/net6.0/Ex002_3.dll
+/Users/macbook/Desktop/C#/hw1/Ex002_3/bin/Debug/net6.0/Ex002_3.pdb
+/Users/macbook/Desktop/C#/hw1/Ex002_3/obj/Debug/net6.0/Ex002_3.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/C#/hw1/Ex002_3/obj/Debug/net6.0/Ex002_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/C#/hw1/Ex002_3/obj/Debug/net6.0/Ex002_3.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/C#/hw1/Ex002_3/obj/Debug/net6.0/Ex002_3.AssemblyInfo.cs
+/Users/macbook/Desktop/C#/hw1/Ex002_3/obj/Debug/net6.0/Ex002_3.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/C#/hw1/Ex002_3/obj/Debug/net6.0/Ex002_3.dll
+/Users/macbook/Desktop/C#/hw1/Ex002_3/obj/Debug/net6.0/refint/Ex002_3.dll
+/Users/macbook/Desktop/C#/hw1/Ex002_3/obj/Debug/net6.0/Ex002_3.pdb
+/Users/macbook/Desktop/C#/hw1/Ex002_3/obj/Debug/net6.0/Ex002_3.genruntimeconfig.cache
+/Users/macbook/Desktop/C#/hw1/Ex002_3/obj/Debug/net6.0/ref/Ex002_3.dll
